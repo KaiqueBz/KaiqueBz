@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&size=30&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+ao+meu+Repositório+:%29;Explore+meus+projetos+e+ideias." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&size=30&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+ao+meu+Repositório+:%29;Welcome+to+my+repository+:%29"; alt="Typing SVG" />
 </p>
 
 ---

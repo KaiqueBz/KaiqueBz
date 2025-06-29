@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre Mim
 
-- 🔭 Atualmente estudando **JavaScript**
+- 🔭 Atualmente estudando **Java**
 - 🌱 Amante de tecnologia
 - 🎯 Buscando sempre evolução 
 ---
@@ -23,9 +23,12 @@
 <br>
 
 <div align="start">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40px" />
+
 </div>
 
 ---

@@ -4,6 +4,14 @@
   Estudante de Engenharia de Software | Futuro Desenvolvedor Full Stack 💻
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg" width="800px">
+  </picture>
+</p>
+
 <br>
 
 <p align="center">
@@ -38,14 +46,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueBz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="KaiqueBz GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBz&layout=compact&theme=gruvbox" alt="Top Languages"/>
 </div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg" width="800px">
-  </picture>
-</p>
 
 ---
 

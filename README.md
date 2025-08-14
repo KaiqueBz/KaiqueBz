@@ -5,17 +5,15 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&size=30&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+ao+meu+Repositório+:%29;Welcome+to+my+repository+:%29" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg" width="800px">
   </picture>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&size=30&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+ao+meu+Repositório+:%29;Welcome+to+my+repository+:%29" alt="Typing SVG" />
 </p>
 
 ---
